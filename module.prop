@@ -1,0 +1,6 @@
+id=ANGLE
+name=ANGLE Controller Non Root
+version=0
+versionCode=0
+author=RiProG
+description=Configure the app to use the ANGLE renderer to enhance graphics

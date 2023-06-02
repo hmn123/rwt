@@ -1,0 +1,21 @@
+Module Magisk NON-ROOT
+RENDERING GAMING [ANGLE]
+
+Angle Controller Non Root
+For android 10+ [android 10 ke atas]
+
+#Install
+sh /storage/emulated/0/ANGLE/rish
+sh /storage/emulated/0/ANGLE/config.sh
+
+#Remove
+sh /storage/emulated/0/ANGLE/rish
+sh /storage/emulated/0/ANGLE/unconfig.sh
+
+Big thanks
+@RipRog [Bang Rizki]
+https://t.me/RiOpSo [RiProG open source]
+https://t.me/RiOpSoDisc [RiProG rom diskusi]
+
+Sip mantap. semoga bermanfaat
+Salam dari saya --Ilham Yahya Nugraha--
